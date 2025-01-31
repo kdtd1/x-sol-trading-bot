@@ -5,9 +5,9 @@ from solana.rpc.api import Client
 import time
 
 # CONFIG (DÜZENLE!)
-TELEGRAM_TOKEN = "BOT_TOKEN"  # @BotFather'dan al
+TELEGRAM_TOKEN = "7598084487:AAGauhXl1KOAgHCu2fG3xveK1vGA7XkM5NU"  # @BotFather'dan al
 CHAT_ID = "CHAT_ID"           # https://api.telegram.org/bot<TOKEN>/getUpdates
-TARGET_USERS = ["elonmusk"]   # Kullanıcı adları (@ işareti olmadan)
+TARGET_USERS = ["kudret024"]   # Kullanıcı adları (@ işareti olmadan)
 SOLANA_RPC = "https://api.mainnet-beta.solana.com"
 
 # Initialize
